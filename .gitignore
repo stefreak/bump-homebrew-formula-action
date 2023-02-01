@@ -1,3 +1,6 @@
 .vscode/
 node_modules/
-lib/
+lib/*
+!lib/index.js
+!lib/index.js.map
+!lib/sourcemap-register.js
